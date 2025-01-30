@@ -49,7 +49,6 @@ function App() {
       <Services />
       <Pricing />
       <FAQ />
-      {/* <NewsLetter /> */}
       <NewsletterSubscribe />
       <Footer />
     </div>
