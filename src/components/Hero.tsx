@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="relative h-[733px] overflow-hidden">
     {/* Background Image */}
-    <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('/src/images/Hero.png')" }}>
+    <div className="absolute inset-0 bg-cover bg-center bg-[url('/src/images/Hero.png')]">
       <div className="absolute inset-0 bg-black/65" />
     </div>
 
