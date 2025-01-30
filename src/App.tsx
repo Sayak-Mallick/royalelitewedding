@@ -1,4 +1,3 @@
-// import { Phone, Mail} from 'lucide-react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -7,9 +6,8 @@ import Services from './components/Services';
 import Pricing from './components/Pricing';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
-import NewsLetter from './components/NewsLetter';
 import Logo from "./images/logo.png";
-import NewsletterSubscribe from './components/NewsLetterSubscribe';
+import NewsletterSubscribe from './components/NewsletterSubscribe';
 
 function App() {
   return (
