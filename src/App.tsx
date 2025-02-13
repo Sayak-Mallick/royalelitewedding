@@ -11,6 +11,7 @@ import Logo from "./images/logo.png";
 // import LogoRE from "./images/logo-RE.png"
 import NewsletterSubscribe from './components/NewsletterSubscribe';
 import Enquiry from './components/Enquiry';
+import Contact from './components/Contact';
 import './loader.css';
 
 function App() {
@@ -73,6 +74,7 @@ function App() {
       <Pricing />
       <FAQ />
       <NewsletterSubscribe />
+      <Contact />
       <Footer />
     </div>
   );
